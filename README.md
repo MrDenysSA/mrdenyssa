@@ -1,5 +1,6 @@
-# 💫 About Me:
-🧑🏻‍💻I’m Junior(Trainee) Java Software Developer<br>🔍I'm looking for a job in my specialty.<br><br>📚I completed the JavaRush course. <br>Duration: 15 months <br>Completed 10 projects and 1000 practice tasks<br><br>🛠️Top skills covered<br>Java, OOP, log4j, Junit, Mockito, SQL (MySQL), JDBC, Hibernate, Servlets, JSP, REST API, Spring (Core, Data JPA, MVC, Test, Security), Spring Boot, Patterns (GoF), Intellij IDEA, Git, Maven, Tomcat, Docker<br><br>🚀But I don’t stop there and strive to improve<br><br>❤️Java for me is not only a job, but also a hobby.
+# Hi!👋 I'm Denys Syrotiuk
+## I’m Junior(Trainee) Java Software Developer<br>🔍I'm looking for a job in my specialty.<br>
+### 📚I completed the JavaRush course. <br>Duration: 15 months <br>Completed 10 projects and 1000 practice tasks<br><br>🛠️Top skills covered<br>Java, OOP, log4j, Junit, Mockito, SQL (MySQL), JDBC, Hibernate, Servlets, JSP, REST API, Spring (Core, Data JPA, MVC, Test, Security), Spring Boot, Patterns (GoF), Intellij IDEA, Git, Maven, Tomcat, Docker<br><br>🚀But I don’t stop there and strive to improve<br><br>❤️Java for me is not only a job, but also a hobby.
 
 
 ## 🌐 Socials:
